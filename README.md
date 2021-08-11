@@ -1,5 +1,5 @@
 <h2> Hi, I'm Anvay 👋 </h2>
-<!-- <img align='right' src="https://media.giphy.com/media/kKefeMw8rbMVq/giphy.gif" width="230"> -->
+<img align='right' src="https://avatars.githubusercontent.com/u/48328634?s=400&u=90d8782bc0313ddd7cfdab15dbdea2e87fe91000&v=4" width="230">
 <p align="center">
   <a href="https://twitter.com/anvay10101">
     <img src="https://img.shields.io/badge/-@anvay10101-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/anvay10101">
